@@ -1,3 +1,5 @@
-const reverseInt = num => parseInt(num.toString().split('').reverse().join(''));
+// const reverseInt = num => parseInt(num.toString().split('').reverse().join(''));
 
-console.log(reverseInt(123));
+// console.log(reverseInt(123));
+
+
